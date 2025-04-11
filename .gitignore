@@ -12,7 +12,6 @@ yarn-error.log
 package-lock.json
 /.vscode
 /app.log
-.env.local
 .env.development
 .env.default
 .env.qa
