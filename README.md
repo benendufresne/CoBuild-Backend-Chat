@@ -75,7 +75,7 @@ npm run local
 
 # localhost swagger URL
 
-- http://localhost:3005/chat/documentation
+- http://localhost:5005/chat/documentation
 
 ### Basic Setup End
 
